@@ -1,0 +1,20 @@
+
+.header{
+    background-color: pink;
+    padding: 1px;
+    text-align: left; color: white;
+}
+
+.nav_menu {
+    overflow: hidden;
+    background-color: hotpink;
+}
+.nav_menu a {
+    float: left;
+    display:block;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+}
+
